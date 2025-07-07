@@ -8,9 +8,9 @@ To complie and run this program you will need to use a linux machine, and have a
  Take the source code and paste it in
 
  Assuming you have a c compiler you will be able to run
-     gcc simple_shell.c -o run.exe
+     -- gcc simple_shell.c -o run.exe
 
 Then run the program
-    ./run.exe
+    -- ./run.exe
 
 You have successfully complied and ran my program. I am still working on adding more commands, but I wanted to get this on git!
